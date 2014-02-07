@@ -31,6 +31,7 @@ public class helloServlet extends HttpServlet {
 		else
 			out.println("You didn't enter any text!\n");
 		
+		out.println("<br/>");
 		out.println("<a href=\"../../index.html\">"
 				+ "Return to form</a>");
 		

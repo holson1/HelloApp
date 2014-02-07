@@ -29,7 +29,7 @@ public class helloServlet extends HttpServlet {
 		if(name != null)
 			out.println("Hi there, " + name + "!\n");
 		else
-			out.println("You didn't enter any text!\n");
+			out.println("You didn't enter any text.\n");
 		
 		out.println("<br/>");
 		out.println("<a href=\"../../index.html\">"

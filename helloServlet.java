@@ -33,7 +33,7 @@ public class helloServlet extends HttpServlet {
 		
 		out.println("<br/>");
 		out.println("<a href=\"../../index.html\">"
-				+ "Return to form!</a>");
+				+ "Return to form</a>");
 		
 		out.println("</body>");
 		out.println("</html>");

@@ -1,6 +1,6 @@
 HelloApp
 ========
-Test at: http://broncoswap.csproject.org/henrypages/mapquiz/
+Test at: http://broncoswap.csproject.org:8080/HelloApp/
 
 My first java servlet!
 
